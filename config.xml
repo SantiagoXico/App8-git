@@ -34,7 +34,7 @@ Santiago Xicotencatl Martinez
 <allow-internet href="https://*/*"/>
 <acces origin="https://*/*"/>
 <allow-internet href="http://*/*"/>
-<acces origin="http://*/*"
+<acces origin="http://*/*"/>
 <plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <icon src="res/android/mdpi.png"/>
